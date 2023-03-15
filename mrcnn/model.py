@@ -23,8 +23,8 @@ import keras.layers as KL
 #import keras.engine as KE
 import keras.models as KM
 
-import keras.engine.topology as KE
-
+#import keras.engine.topology as KE
+from keras.layers import Layer as KE
 
 
 
